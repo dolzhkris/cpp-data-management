@@ -3,18 +3,7 @@ Console C++ application for managing structured data using dynamic arrays, struc
 
 ## About
 
-This project was developed as a university coursework project during my first year of study.
-
-The application allows users to create and manage a collection of questionnaire records through a console menu. It demonstrates fundamental C++ programming concepts, including structures, functions, pointers, dynamic arrays, and basic data manipulation.
-
-## Data Structure
-
-| Field     | Description                   |
-| --------- | ----------------------------- |
-| Age       | Person's age                  |
-| Sex       | Male or female                |
-| Education | Primary, secondary, or higher |
-| Answer    | Yes or no                     |
+This project was developed as a university coursework project during my first year of study. It demonstrates fundamental C++ programming concepts, including structures, functions, pointers, dynamic arrays, and basic data manipulation.
 
 ##  Project Structure
 
