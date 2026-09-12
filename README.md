@@ -3,7 +3,7 @@ Console C++ application for managing structured data using dynamic arrays, struc
 
 ## About
 
-This project was developed as a university coursework project during my first year of study. It demonstrates fundamental C++ programming concepts, including structures, functions, pointers, dynamic arrays, and basic data manipulation.
+This project was developed as a university coursework project during the first year of university. It demonstrates fundamental C++ programming concepts, including structures, functions, pointers, dynamic arrays, and basic data manipulation.
 
 ##  Project Structure
 
